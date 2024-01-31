@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar Villarroel</h1>
 <h3 align="center">A passionate data engineer from Ecuador</h3>
 
-- 🔭 I’m currently working on **Agro Bananera**
+- 🔭 I’m currently working on **Compsesa Computadoras San Eduardo- IT Consulting for Big Data Solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
